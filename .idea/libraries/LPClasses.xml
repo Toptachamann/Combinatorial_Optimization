@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LPClasses">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../LPSolver/src" />
+    </SOURCES>
+  </library>
+</component>
